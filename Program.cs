@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OOP_Exercises_17_02_2022.Exercises;
+using System;
 
 namespace OOP_Exercises_17_02_2022
 {
@@ -6,7 +7,9 @@ namespace OOP_Exercises_17_02_2022
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("EXERCISE 1");
+            Question1 question1 = new();
+            question1.
         }
     }
 }
