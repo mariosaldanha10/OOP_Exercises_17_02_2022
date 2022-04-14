@@ -1,7 +1,7 @@
-﻿using OOP_Exercises_17_02_2022.Exercises;
+﻿using OOP_Exercises_Week4.Exercises;
 using System;
 
-namespace OOP_Exercises_17_02_2022
+namespace OOP_Exercises_Week4.Exercises
 {
     class Program
     {
@@ -9,7 +9,19 @@ namespace OOP_Exercises_17_02_2022
         {
             Console.WriteLine("EXERCISE 1");
             Question1 question1 = new();
-            question1.
+            
+            
+
+            Console.WriteLine("EXERCISE 2");
+            Question2 question2 = new();
+
+
+
+            Console.WriteLine("EXERCISE 3");
+            Question3 question3 = new();
+
+
+
         }
     }
 }
