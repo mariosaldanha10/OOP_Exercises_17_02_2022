@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_Exercises_17_02_2022.Exercises
+namespace OOP_Exercises_Week4.Exercises
 {
     public class Question1
     {
